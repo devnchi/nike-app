@@ -1,0 +1,6 @@
+module Pods_NikeShoesEcommerceApp {
+  umbrella header "Pods-NikeShoesEcommerceApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
